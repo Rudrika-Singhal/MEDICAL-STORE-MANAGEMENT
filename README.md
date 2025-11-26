@@ -13,8 +13,7 @@ A user-friendly application designed to streamline and automate the operations o
 ## Technologies Used
 
 - Programming Language: Java / Python / C# (specify your language)
-- Database: MySQL / SQLite / MongoDB (specify your DB)
-- GUI Framework: JavaFX / Tkinter / WinForms (specify if applicable)
+- Database: MySQL / ECLIPSE / JSP (specify your DB)
 
 ## Installation
 
